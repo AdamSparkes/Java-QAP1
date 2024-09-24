@@ -1,6 +1,6 @@
 public class TestAccount {
     public static void main(String[] args) {
-        // Create two accounts
+    //two accounts
         Account acc1 = new Account("A001", "John", 5000);
         Account acc2 = new Account("A002", "Jane", 4000);
 
